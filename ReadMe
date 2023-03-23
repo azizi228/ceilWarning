@@ -1,0 +1,2 @@
+This code uses stm32f407 to connect to pressure sensors and moisture sensors
+to send data through sim 
